@@ -1,4 +1,3 @@
-### Hi there 👋
 # Welcome to the playground! 🚀
 
 ![Cover](https://media.giphy.com/media/3orieQHmkjxSiLGC08/giphy.gif)
