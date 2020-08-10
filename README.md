@@ -7,8 +7,8 @@ I playing software and currently client-side focused, Here I usually playing aro
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2muhammedMoussa)
 
 ### Programming Languages
-* [Go](https://github.com/muhammedMoussa/go-playing) - Covering some of lanngigae basics.
-* [Rust](https://github.com/muhammedMoussa/rust-playing) - Covering some of lanngigae basics.
+* [Go](https://github.com/muhammedMoussa/go-playing) - Covering some of language basics.
+* [Rust](https://github.com/muhammedMoussa/rust-playing) - Covering some of language basics.
 * [Rust](https://github.com/muhammedMoussa/rust-by-example) - Covering Official rust book.
 
 ### Frameworks / Stacks.
