@@ -35,6 +35,7 @@ I playing software and currently client-side focused, Here I usually playing aro
 * [Personal Website](https://github.com/muhammedMoussa/muhammedmoussa.github.io) - Gatsby Personal Website/Blog .
 * [Paix](https://github.com/muhammedMoussa/paix) - Javascript Mapper.
 * [Apiy](https://github.com/muhammedMoussa/apiy) - Http Communications Liberary .
+* [Logzone](https://github.com/muhammedMoussa/logzone) - a package to print pretty log messages .
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/muhammedMoussa?label=Follow&style=social)
 
