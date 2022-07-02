@@ -2,14 +2,14 @@
 
 ![Cover](https://media.giphy.com/media/3orieQHmkjxSiLGC08/giphy.gif)
 
-I playing software and currently client-side focused, Here I usually playing around techs by docs or tutorials follow up, and sometimes building complete/real projects. here a fast list of some inside playing.
+Hello, this is a software developer currently focused on client-side delivery and integration.
+I am experienced in various project scales and industries. also, collaborate with different teams and cultures from different countries.
+Regardless of the client-side tech stack `"*.js"`, and the platform (Web, Mobile, PWA...) the main goal is to deliver reusable, high-quality, user-friendly, and maintainable software.
+
+I am playing software and am currently client-side focused, Here I usually play around with techs by docs or tutorials follow-up, and sometimes build complete/real projects. here a fast list of some inside playing.
 
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2muhammedMoussa) -->
 ![](https://komarev.com/ghpvc/?username=muhammedmoussa&color=brightgreen)
-
-[![Muhammed Moussa StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6512565&theme=dark)](https://stackoverflow.com/users/6512565/muhammed-moussa)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/muhammedMoussa?label=Follow&style=social)
 
 ![Hero](https://www.azquotes.com/picture-quotes/quote-talk-is-cheap-show-me-the-code-linus-torvalds-45-66-13.jpg)
 
@@ -43,6 +43,10 @@ I playing software and currently client-side focused, Here I usually playing aro
 * [Paix](https://github.com/muhammedMoussa/paix) - Javascript Mapper.
 * [Apiy](https://github.com/muhammedMoussa/apiy) - Http Communications Liberary .
 * [Logzone](https://github.com/muhammedMoussa/logzone) - a package to print pretty log messages .
+
+[![Muhammed Moussa StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6512565&theme=dark)](https://stackoverflow.com/users/6512565/muhammed-moussa)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/muhammedMoussa?label=Follow&style=social)
 
 
 <!--
