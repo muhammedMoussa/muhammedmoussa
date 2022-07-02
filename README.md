@@ -7,6 +7,12 @@ I playing software and currently client-side focused, Here I usually playing aro
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2muhammedMoussa) -->
 ![](https://komarev.com/ghpvc/?username=muhammedmoussa&color=brightgreen)
 
+[![Muhammed Moussa StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6512565&theme=dark)](https://stackoverflow.com/users/6512565/muhammed-moussa)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/muhammedMoussa?label=Follow&style=social)
+
+![Hero](https://www.azquotes.com/picture-quotes/quote-talk-is-cheap-show-me-the-code-linus-torvalds-45-66-13.jpg)
+
 ### Programming Languages
 * [Go](https://github.com/muhammedMoussa/go-playing) - Covering some of language basics.
 * [Rust](https://github.com/muhammedMoussa/rust-playing) - Covering some of language basics.
@@ -38,7 +44,6 @@ I playing software and currently client-side focused, Here I usually playing aro
 * [Apiy](https://github.com/muhammedMoussa/apiy) - Http Communications Liberary .
 * [Logzone](https://github.com/muhammedMoussa/logzone) - a package to print pretty log messages .
 
-![Twitter Follow](https://img.shields.io/twitter/follow/muhammedMoussa?label=Follow&style=social)
 
 <!--
 **muhammedMoussa/muhammedmoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
